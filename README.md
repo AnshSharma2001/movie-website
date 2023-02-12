@@ -2,6 +2,9 @@
 ## Introduction
 This project is a movie website frontend responsive design built using HTML, CSS, and JavaScript. The website displays information about popular movies, including the movie's poster, title, and a brief summary. The design is fully responsive and adjusts to the screen size of different devices.
 
+## Deployed Version
+https://dashing-marshmallow-fe01e8.netlify.app/
+
 ## Features
 * A home page that displays a grid of popular movies
 * A movie detail page that provides more information about a selected movie
